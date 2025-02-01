@@ -1,0 +1,41 @@
+
+#introduction {
+font-size: x-large;
+    }
+
+.highlighted {
+    color: rgb(0, 34, 10);
+    font-size: larger;
+    background-color: rgb(215, 192, 90);
+    line-height: 1.5em;
+
+    }
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 100%;
+    }
+
+p {
+    line-height: 1em;
+    }
+
+
+a {
+    color: inherit;
+}
+
+
+footer {
+    background-color: rgba(125, 123, 123, 0.9);
+    color: rgb(221, 201, 163);
+    }
+
+
+
+section p {
+    color: blue;
+    }
+
